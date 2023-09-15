@@ -350,6 +350,26 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
+.javascript {
+   width: 80%;
+   -moz-animation: javascript 2s ease;
+   -webkit-animation: javascript 2s ease;
+}
+.reactjs{
+   width: 80%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+.nodejs{
+   width: 70%;
+   -moz-animation: nodejs 2s ease;
+   -webkit-animation: nodejs 2s ease;
+}
+.mongodb {
+   width: 90%;
+   -moz-animation: mongodb 2s ease;
+   -webkit-animation: mongodb 2s ease;
+}
 .jquery {
   	width: 50%;
   	-moz-animation: jquery 2s ease;
