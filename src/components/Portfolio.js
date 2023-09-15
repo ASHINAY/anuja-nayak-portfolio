@@ -37,7 +37,7 @@ export default class Porfolio extends Component {
                         <a
                           href={item.websiteLink}
                           style={{
-                            display: item.websiteLink == "" ? "none" : "",
+                            display: item.websiteLink === "" ? "none" : "",
                           }}
                         >
                           Website
