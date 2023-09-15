@@ -27,14 +27,14 @@ let resumeData = {
         "specialization":"M-Tech in Power System",
         "MonthOfPassing":"Dec",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       },
       {
         "UniversityName":"The  Lakshmi Narayan College of Technology",
         "specialization":"Electrical and Electronics Engineering",
         "MonthOfPassing":"June",
         "YearOfPassing":"2017",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       }
     ],
     "work":[
@@ -42,11 +42,11 @@ let resumeData = {
         "CompanyName":" Capgemini",
         "specialization":"MERN Developer",
         "YearOfJoining":"2021",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       },
      
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"My Programming Skills",
     "skills":[
       {
         "skillname":"HTML5"
