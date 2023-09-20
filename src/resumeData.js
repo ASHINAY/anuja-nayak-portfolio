@@ -85,7 +85,14 @@ let resumeData = {
         "description":"Developed a Gram-to-Cost Converter App, designed to easily convert grams into cost and vice versa",  
         "gitLink":"https://github.com/ASHINAY/gram-to-cost-converter",
         "websiteLink":"https://ashinay.github.io/gram-to-cost-converter/"
+      },
+      {
+        "name":"Yoga Club Form",
+        "description":"I spearheaded the development of a web-based Yoga Club Form,showcasing my expertise in user interface (UI) and user experience (UX) design and web development.",  
+        "gitLink":"https://github.com/ASHINAY/yoga-club",
+        "websiteLink":"https://yoga-club-git-master-ashinay.vercel.app/"
       }
+
       ],
     "testimonials":[
       {
