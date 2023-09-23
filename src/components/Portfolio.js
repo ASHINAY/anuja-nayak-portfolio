@@ -9,7 +9,7 @@ export default class Porfolio extends Component {
             <h1>Check Out Some of My Works.</h1>
             <div
               id="portfolio-wrapper"
-              style={{ display: "flex", justifyContent: "space-between" }}
+              style={{ display: "flex", justifyContent: "space-between",flexWrap:"wrap",rowGap:"50px" }}
             >
               {resumeData.portfolio &&
                 resumeData.portfolio.map((item) => {
@@ -21,6 +21,7 @@ export default class Porfolio extends Component {
                         display: "flex",
                         flexDirection: "column",
                         justifyContent: "space-between",
+                       
                       }}
                     >
                       <div>

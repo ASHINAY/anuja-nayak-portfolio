@@ -88,7 +88,7 @@ let resumeData = {
       },
       {
         "name":"Yoga Club Form",
-        "description":"I spearheaded the development of a web-based Yoga Club Form,showcasing my expertise in user interface (UI) and user experience (UX) design and web development.",  
+        "description":"Designed and Developed a user-centric web platform catering to individuals and yoga enthusiasts, streamlining the process of club registration.",  
         "gitLink":"https://github.com/ASHINAY/yoga-club",
         "websiteLink":"https://yoga-club-git-master-ashinay.vercel.app/"
       }
