@@ -91,7 +91,19 @@ let resumeData = {
         "description":"Designed and Developed a user-centric web platform catering to individuals and yoga enthusiasts, streamlining the process of club registration.",  
         "gitLink":"https://github.com/ASHINAY/yoga-club",
         "websiteLink":"https://yoga-club-git-master-ashinay.vercel.app/"
+      },
+      {
+        "name":"Guess Gen",
+        "description":"Predicting Gender from Names - Ever wondered about the gender associated with a particular name? With guessGen, all you have to do is type in a name, and we'll show you the gender. Simple as that! ",  
+        "gitLink":"https://github.com/ASHINAY/Guess-Gender",
+        "websiteLink":"https://vercel.com/ashinay/guess-gender"
+      },{
+        "name":"Code Syntax Highlighter",
+        "description":"Elevate your code's readability with the Code Syntax Highlighter app. Designed for developers, this tool offers multi-language support, a range of themes, and easy embedding options.",  
+        "gitLink":"https://github.com/ASHINAY/Highlighter-code",
+        "websiteLink":"https://highlighter-code.vercel.app/"
       }
+
 
       ],
     "testimonials":[
